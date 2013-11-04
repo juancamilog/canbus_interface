@@ -1,0 +1,3 @@
+[default]
+interface = socketcan_ctypes
+channel = can0
